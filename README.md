@@ -4,7 +4,7 @@
 Implementing Data Structures and Algorithms (DSA) involves the creation and utilization of essential building blocks for efficient problem-solving in computer science and software development. Data structures are tools that enable the organization and manipulation of data, while algorithms are step-by-step procedures used to solve specific problems.
 
 
-![Logo](https://media.licdn.com/dms/image/D4D16AQHsGq7LjREKJw/profile-displaybackgroundimage-shrink_200_800/0/1664464042391?e=2147483647&v=beta&t=4uebPbE4bUaKohS5PI_v3-ifO3jxWgf-vTbZq88DYFI)
+![Logo](https://media.geeksforgeeks.org/wp-content/uploads/20220602132441/CompleteRoadmaptolearnDataStructureandAlgorithms-660x330.png)
 
 
 ## Roadmap
