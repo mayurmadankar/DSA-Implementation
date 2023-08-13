@@ -1,5 +1,5 @@
 
-# Data Structures and Algorithms Practice In JAVA (coding Ninjas)
+# Data Structures and Algorithms Practice In JAVA
 
 Implementing Data Structures and Algorithms (DSA) involves the creation and utilization of essential building blocks for efficient problem-solving in computer science and software development. Data structures are tools that enable the organization and manipulation of data, while algorithms are step-by-step procedures used to solve specific problems.
 
